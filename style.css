@@ -1,0 +1,24 @@
+.main{
+    box-shadow: 2px 2px 3px grey;
+    width: 180px;
+    margin: 0px auto;
+}
+.clr{
+    width: 50%;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+.divide{
+    margin-top: 15px;
+    margin-left: 40px;
+    width: 15%;
+}
+.btn{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.btn1{
+    margin-top: 15px;
+    margin-left: 5px;
+    width: 45%;
+}
